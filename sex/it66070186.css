@@ -1,0 +1,19 @@
+h1 {
+    font-size: 64px;
+    color: blue;
+    text-align: center;
+}
+.Buffed_red_scout {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200%;
+}
+.myDiv {
+    border: 7px outset purple;
+    background-color: greenyellow;
+    text-align: center;
+}
+body {
+    background-color: red;
+}
